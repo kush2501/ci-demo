@@ -11,6 +11,6 @@ def mul(a,b):
 
 result1 = add(4, 5)
 result2 = sub(5, 6)
-result3 = mul(2,5)
+result3 = mul(2, 5)
 
 print(result1, result2, result3)
