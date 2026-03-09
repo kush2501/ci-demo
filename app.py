@@ -6,7 +6,9 @@ def sub(a, b):
     return a-b
 
 
-result1 = add(4, 5)
-result2 = sub(5, 6)
+if __name__ == "__main__":
 
-print(result1, result2)
+    result1 = add(4, 5)
+    result2 = sub(5, 6)
+
+    print(result1, result2)
